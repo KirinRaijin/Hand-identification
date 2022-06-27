@@ -9,4 +9,5 @@ Aim- To detect finger counting in realtime and display the number of fingers rai
 
 CODING:
 Window design:
-The main concept of using mediapipe is that mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks. OpenCV on the otherhand,is a tool for image analysis, webcam output, image processing, detection and face recognision.
+The main concept of using mediapipe is that mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks. OpenCV on the otherhand,is a tool for image analysis, webcam output, image processing, detection and face recognition.
+
