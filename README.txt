@@ -1,4 +1,4 @@
-# Hand-identification
+#Finger Counting
 README
 
 
