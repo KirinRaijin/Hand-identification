@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 25 15:17:11 2022
 
-@author: rishi
-"""
 
 import cv2
 import time
